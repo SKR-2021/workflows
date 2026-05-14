@@ -1,4 +1,4 @@
-name: feature-nodejs-pipeline
+name: feature-nodejs-pipline
 on:
   workflow_call: # will be called by someone, should get inputs from caller
     inputs:
